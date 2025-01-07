@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Host_Grotesk } from "next/font/google";
 import "@/resources/assets/styles/globals.css";
 import React from "react";
 import {APP_DESCRIPTION, APP_NAME, SERVER_URL} from "@/lib/constants";
 
-const inter = Inter({ subsets: ['latin']});
+const grotesk = Host_Grotesk({ subsets: ['latin']});
 
 export const metadata: Metadata = {
   title: {
@@ -23,7 +23,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body
-        className={`${inter.className} antialiased`}
+        className={`${grotesk.className} antialiased`}
       >
         {children}
       </body>
