@@ -1,3 +1,4 @@
+import ProductCard from "@/components/shared/product/product-card";
 
 
 const ProductList = ({data, title, limit} : { data: any; title?: string; limit?: number; }) => {
@@ -11,9 +12,10 @@ const ProductList = ({data, title, limit} : { data: any; title?: string; limit?:
             {data.length > 0 ? (
                 <div className={"grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4"}>
                     {limitedData.map((product: any) => (
-                        <div key={product.id} className={"mb-4"}>
-                            <p>{product.name}</p>
-                        </div>
+                        <ProductCard
+                            key={product.id}
+                            product={product}
+                        />
                     ))}
                 </div>
                 ) : (
