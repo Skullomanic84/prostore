@@ -1,4 +1,3 @@
-import React from 'react'
 import {APP_NAME} from "@/lib/constants";
 
 const Footer = () => {
@@ -6,7 +5,7 @@ const Footer = () => {
     return (
         <footer className="border-t">
            <div className="p-5 flex-center">
-               {currentYear} {APP_NAME}. | All Rights Reserved.
+               <p className={"text-[13px]"}>{currentYear} {APP_NAME}. | All Rights Reserved. </p>
            </div>
         </footer>
     )

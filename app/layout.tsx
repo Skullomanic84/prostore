@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Host_Grotesk } from "next/font/google";
 import "@/resources/assets/styles/globals.css";
-import React from "react";
 import {APP_DESCRIPTION, APP_NAME, SERVER_URL} from "@/lib/constants";
 import {ThemeProvider} from "next-themes";
 
