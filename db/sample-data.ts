@@ -88,7 +88,7 @@ const sampleData = {
     {
       name: 'Classic Pink Hoodie',
       slug: 'polo-classic-pink-hoodie',
-      category: "Men's Sweatshirts",
+      category: "Men's Sweat Shirts",
       description: 'Soft, stylish, and perfect for laid-back days',
       images: [
         '/images/sample-products/p6-1.jpg',
