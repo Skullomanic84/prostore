@@ -8,11 +8,11 @@ export default function RootLayout({children,}: Readonly<{
 }>) {
     return (
         <div className="flex flex-col h-screen">
+            <Header />
             <main className="flex-1 wrapper">
-                <Header />
                 {children}
-                <Footer />
             </main>
+            <Footer />
         </div>
     );
 }
