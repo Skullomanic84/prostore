@@ -19,3 +19,9 @@ export const insertProductSchema = z.object({
     isFeatured: z.boolean(),
     banner: z.string().nullable(),
 })
+
+//schema for signing in users
+export const signInSchema = z.object({
+    email: z.string().email("invalid email address"),
+    password: z.string().min(6, "Password must be at least 6 characters long"),
+});
