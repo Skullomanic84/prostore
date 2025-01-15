@@ -4,7 +4,7 @@ const sampleData = {
       name: 'Sporting Stretch Shirt',
       slug: 'polo-sporting-stretch-shirt',
       category: "Men's Dress Shirts",
-      description: 'Classic Polo style with modern comfort',
+      description: 'The Smart Paris Polo Shirt Offers A Refined Twist On A Classic polo Staple. Crafted From Soft, Breathable Stretch Piqué, It Features Expert Design Elements Such As A Hidden Button Placket, Ribbed Accents, And A Tonal Crocodile. A Sophisticated, Timeless Piece.',
       images: [
         '/images/sample-products/p1-1.jpg',
         '/images/sample-products/p1-2.jpg',
@@ -21,7 +21,7 @@ const sampleData = {
       name: 'Long Sleeved Shirt',
       slug: 'brooks-brothers-long-sleeved-shirt',
       category: "Men's Dress Shirts",
-      description: 'Timeless style and premium comfort',
+      description: 'The ideal hint of stretch meets expertly woven twill cloth in Supima®, the world\'s finest cotton. Featuring the Original Polo® Button-Down collar we invented, signature 6-Pleat Shirring® and barrel cuff. Technically superior, perfected over decades: our non-iron shirts keep you polished and virtually wrinkle-free all day, every day.We use American-grown Supima® cotton for its extra-long staple fibers that provide superior strength, softness, color retention, and longevity to our styles.',
       images: [
         '/images/sample-products/p2-1.jpg',
         '/images/sample-products/p2-2.jpg',
@@ -38,7 +38,7 @@ const sampleData = {
       name: 'Classic Fit Dress Shirt',
       slug: 'tommy-hilfiger-classic-fit-dress-shirt',
       category: "Men's Dress Shirts",
-      description: 'A perfect blend of sophistication and comfort',
+      description: 'Look sharp with the timeless tailoring of this button-down collar dress shirt from Tommy Hilfiger\'s TH Flex collection. Cut from a crisp, cotton blend into a Classic Fit, its special stretch fabric offers optimal flexibility as you move through your busy day.A classic fit offers a generous cut throughout the chest and waist for overall ease; features standard armholes and fuller sleeves',
       images: [
         '/images/sample-products/p3-1.jpg',
         '/images/sample-products/p3-2.jpg',
@@ -55,7 +55,7 @@ const sampleData = {
       name: 'Slim Fit Stretch Shirt',
       slug: 'calvin-klein-slim-fit-stretch-shirt',
       category: "Men's Dress Shirts",
-      description: 'Streamlined design with flexible stretch fabric',
+      description: 'The oxford shirt made its debut very early on in Ralph Lauren’s designs, and since then it has solidified its status as a pillar of the Polo look. Our fabric is developed with a secret wash that gives it instant character, ease, and a heathered softness. The formula is so unique, it’s been kept in a safe for more than three decades. In addition to details that evoke its prep-school inspiration, it offers a relaxed feel that produces what we call the perfect “rumple.” Today, Mr. Lauren continues to create countless variations of his iconic shirt, including this relaxed version that is finished with our multicolored signature Pony.',
       images: [
         '/images/sample-products/p4-1.jpg',
         '/images/sample-products/p4-2.jpg',
@@ -72,7 +72,7 @@ const sampleData = {
       name: 'Oxford Shirt',
       slug: 'polo-ralph-lauren-oxford-shirt',
       category: "Men's Dress Shirts",
-      description: 'Iconic Polo design with refined oxford fabric',
+      description: 'The oxford shirt made its debut very early on in Ralph Lauren’s designs, and since then it has solidified its status as a pillar of the Polo look. Our fabric is developed with a secret wash that gives it instant character, ease, and a heathered softness. The formula is so unique, it’s been kept in a safe for more than three decades. In addition to details that evoke its prep-school inspiration, it offers a relaxed feel that produces what we call the perfect “rumple.” Today, Mr. Lauren continues to create countless variations of his iconic shirt, including this short-sleeve version that is finished with our multicolored signature Pony.',
       images: [
         '/images/sample-products/p5-1.jpg',
         '/images/sample-products/p5-2.jpg',
@@ -89,7 +89,7 @@ const sampleData = {
       name: 'Classic Pink Hoodie',
       slug: 'polo-classic-pink-hoodie',
       category: "Men's Sweat Shirts",
-      description: 'Soft, stylish, and perfect for laid-back days',
+      description: 'The oxford shirt made its debut very early on in Ralph Lauren’s designs, and since then it has solidified its status as a pillar of the Polo look. Our fabric is developed with a secret wash that gives it instant character, ease, and a heathered softness. The formula is so unique, it’s been kept in a safe for more than three decades. In addition to details that evoke its prep-school inspiration, it offers a relaxed feel that produces what we call the perfect “rumple.” Today, Mr. Lauren continues to create countless variations of his iconic shirt, including this short-sleeve version that is finished with our multicolored signature Pony.',
       images: [
         '/images/sample-products/p6-1.jpg',
         '/images/sample-products/p6-2.jpg',
